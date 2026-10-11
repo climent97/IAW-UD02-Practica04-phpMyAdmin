@@ -1,0 +1,12 @@
+# Credenciales y claves privadas
+.htpasswd
+*.key
+*.pem
+
+# Certificados locales de la maquina virtual
+phpmyadmin.crt
+
+# Archivos temporales
+*~
+*.swp
+.DS_Store
